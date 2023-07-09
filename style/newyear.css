@@ -34,5 +34,51 @@ header{
      font-size: 20px;
      font-weight: 600;
      font-family: 'Open Sans', sans-serif;
-    
+}
+.body{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+.background-clr{
+    bottom: 0;
+    width: 528px;
+    height: 528px;
+    background-color: rgba(241, 91, 34, .20);
+    margin-top: 500px;
+    border-radius: 50%;
+}
+.persons-pic{
+    margin-top: -723px;
+}
+.body-heading{
+    color: var(--dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.info-container{
+    padding-top:400px ;
+    padding-left: 100px;
+}
+.body-heading{
+    height: 98px;
+    width: 298px;
+}
+.body-pera{
+    width: 416px;
+    height: 104px;
+    font-family: 'Work Sans', sans-serif;
+}
+.body-pera li{
+    line-height: 26px;
+    color: #474646;
+}
+.my-plans{
+    text-align: center;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
 }
