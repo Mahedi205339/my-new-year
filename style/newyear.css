@@ -82,3 +82,7 @@ header{
     font-weight: 700;
     font-size: 40px;
 }
+.al-my-plans{
+    display: flex;
+    justify-content:space-evenly;
+}
