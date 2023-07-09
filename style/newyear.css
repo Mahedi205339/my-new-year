@@ -1,0 +1,38 @@
+header{
+    background-image: url('../images/banner/banner1.png');
+    width: 1600px;
+    height: 809px;
+    background-repeat: no-repeat;
+}
+.banner-contant {
+    padding-left: 845px;
+    padding-top: 225px;
+}
+.banner-heading{
+    width: 525px;
+    height: 228px;
+    font-size: 30px;
+    text-align: end;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner-pera{
+    width: 494px;
+    height: 78px;
+    font-size: 14px;
+    text-align: end;
+    font-family: 'Work Sans', sans-serif;
+    color: #444343;
+}
+.btn{
+     background-color: #F15B22;
+     color: white;
+     width: 160px;
+     height: 64px;
+     border: none;
+     border-radius: 5px;
+     font-size: 20px;
+     font-weight: 600;
+     font-family: 'Open Sans', sans-serif;
+    
+}
