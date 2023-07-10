@@ -82,6 +82,7 @@ header{
     font-weight: 700;
     font-size: 40px;
 }
+
 .al-my-plans{
     display: flex;
     justify-content:space-evenly;
@@ -108,7 +109,52 @@ header{
     color: #F15B22;
     font-size: 20px;
     margin-left: 64px;
-    border-radius: 5px;
+    border-radius: 8px;
     font-family: 'Work Sans';
     font-weight: 600;
+    border: none;
+}
+/* footer start */
+.footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 577px;
+    padding-top: 130px;
+    margin-top: 130px;
+}
+.footer-heading{
+    font-size: 45px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+}
+.footer-body{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.sub{
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 600;
+}
+.email{
+    font-size: 20px;
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: none;
+}
+.sub-btn{
+    width: 170px;
+    height: 64px;
+    color: #F15B22;
+    border-radius: 8px;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
 }
